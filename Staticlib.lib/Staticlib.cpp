@@ -1,4 +1,4 @@
-// Staticlib.lib.cpp : Defines the entry point for the console application.
+// Staticlib.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"

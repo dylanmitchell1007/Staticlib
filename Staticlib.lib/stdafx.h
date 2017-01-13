@@ -4,12 +4,23 @@
 //
 
 #pragma once
-
 #include "targetver.h"
-
 #include <stdio.h>
+#include <Windows.h>
 #include <tchar.h>
+using namespace std;
+
+//class Do
+//{
+//	char a = 5;
+//	char b = 2;
+//	
+//	if (a <= b)
+//	{
+//		return a;
+//	}
+//
+//};
 
 
 
-// TODO: reference additional headers your program requires here
